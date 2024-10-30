@@ -1,10 +1,11 @@
 # Polkadot Ambassador Fellowship Manifesto
 Manifesto and rulebook for the Polkadot Ambassador Fellowship (Project Phoenix)
+
 Find version history at https://github.com/polkadot-phoenix/manifesto/tree/main/version-controle
 
 Current form: V3
 
-The Theory
+## The Theory
 1.1 Introduction
 
 As the decentralisation of the Polkadot Network advances, responsibilities once managed by centralised entities must now be handled through decentralised methods. Along with this shift, new challenges will emerge that need to be identified and addressed. This manifesto offers technical and social solutions to tackle these challenges, aiming to minimise the influence of any single participant and give DOT token holders greater control over defining needs, choosing solutions, and supporting them.
