@@ -1,6 +1,6 @@
 # Polkadot Ambassador Fellowship Manifesto
 Manifesto and rulebook for the Polkadot Ambassador Fellowship (Project Phoenix)
-Find version hsitory at https://github.com/polkadot-phoenix/manifesto/tree/main/version-controle
+Find version history at https://github.com/polkadot-phoenix/manifesto/tree/main/version-controle
 
 Current form: V3
 
