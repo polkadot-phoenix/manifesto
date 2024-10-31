@@ -1,7 +1,5 @@
-PLEASE GET YOUR COMMENTS AND EDITS IN BY 1000 UTC ON THURSDAY 31 OCTOBER. THE MANIFESTO WILL THEN BE UPDATED ON GITHUB AND THE ROOF REFERENDUM SUBMITTED.
-
-Polkadot Ambassador Fellowship Manifesto
-DRAFT 4.0
+Polkadot Ambassador Fellowship Manifesto 
+DRAFT 5.0
 
 The Polkadot Community Voices
 
@@ -113,13 +111,9 @@ Ambassador Fellowship—A member organisation existing on-chain whose statutes a
 
 Ambassador Programme—A program that is developed within the infrastructure that the Ambassador Fellowship provides.
 
-Bounty—A mechanism allowing faster access to earmarked treasury funding for specific target areas. The disbursement of funds is controlled by curators based on the proposer’s achieved milestones.
-
 Collective—On-chain groups that serve the Polkadot network and manage their membership, work, decisions and incentives on-chain. Examples: Technical Fellowship, Polkadot Alliance and the Anti-Scam Team. Collectives can use the available modules for on-chain membership, voting, process, salary and treasury management. Functional Fellowships are strategic, long-term, on-chain collectives. Working groups can be created as collectives if it serves their purpose, but it is not a requirement.
 
 DOT Token Holder—Those who own DOT tokens.
-
-Functional Fellowship—A strategic coordination body focused on a particular function within the ecosystem. Examples: Technical Fellowship focuses on core infrastructure, and Ambassador Fellowship concentrates on people, culture and community. These encourage collaboration between different working groups within the function, identify strategic objectives and solicit community-driven solutions through structured RFPs.
 
 Specialist Vertical—A programme developed in focused areas that the Fellowship considers a key area and within the infrastructure that the Ambassador Fellowship provides. 
 
@@ -145,40 +139,15 @@ Ambassadors are expected to have achieved different levels of work and outcomes 
 Each rank should require an ever-increasing level of involvement, dedication, and results that reflect the legitimacy the title will convey to its bearer.
 The Ambassador Fellowship must relieve OpenGov from most meaningless solicitation and should embrace self-management. 
 
-Rank Overview
-Rank
-Name
-Tier
-Voting Weight 
-0
-Advocate Ambassador
-n/a
-n/a
-I
-Associate Ambassador
-1*
-1
-II
-Lead Ambassador
-1
-3
-III
-Senior Ambassador
-2**
-9
-IV
-Principal Ambassador
-2
-27
-V
-Global Ambassador
-3***
-81
-VI
-Global Head Ambassador
-3
-243
-
+| Rank | Name                     | Tier  | Voting Weight |
+|------|---------------------------|-------|---------------|
+| 0    | Advocate Ambassador       | n/a   | n/a           |
+| I    | Associate Ambassador      | 1*    | 1             |
+| II   | Lead Ambassador           | 1     | 3             |
+| III  | Senior Ambassador         | 2**   | 9             |
+| IV   | Principal Ambassador      | 2     | 27            |
+| V    | Global Ambassador         | 3***  | 81            |
+| VI   | Global Head Ambassador    | 3     | 243           |
 
 *Tier 1—Listeners: Listening, Learning and Demonstrating Understanding
 **Tier 2—Engagers: Active engagement
@@ -255,6 +224,7 @@ For existing ambassadors, this shift in philosophy offers a more sustainable and
 
 The Ambassador Fellowship programme has an on-chain treasury. These treasury funds will be used to provide tooling for the Fellowship and cover any incidental costs. When the Fellowship is established, the top-up amount and frequency will be agile, depending on the need. The required funds and top-ups will be requested via OpenGov, based on the process set by the Ambassador Fellowship. The use of the funds once in the treasury will be decided through the internal Fellowship voting system. 
 
+
 Examples of how the treasury may be used:
 
 Tooling such as G-Suite, Element, Discord, premium membership for apps and social media channels
@@ -281,7 +251,7 @@ An optimistic funding scheme proposes that the main Polkadot Treasury periodical
 During each pro-rata period, the community can vote on which person, collective, or scheme each portion of the optimistic fund will be used to finance during the next allocation period. If voters choose not to cancel or alter their previous voting preference, their vote will continue indefinitely (as long as the same entity is requesting funding). This approach allows voters to redirect resources each interval without burdening the voter base, should they be satisfied with the status quo.
 
 
-All ecosystem participants have the right to apply for Optimistic Treasury funding, and the token holders can vote for their preferred applicants. While funding requests are not restricted to Ambassador-related activities, if the program performs as intended, we expect the community to prioritise and allocate resources to the necessary elements to push the program forward (optimistically). We suggest using a Phragmén voting system to determine the allocation of the Optimistic Treasury pot, as explained in section 4.3.2.
+All ecosystem participants have the right to apply for Optimistic Treasury funding, and the token holders can vote for their preferred applicants. While funding requests are not restricted to Ambassador-related activities, if the program performs as intended, we expect the community to prioritise and allocate resources to the necessary elements to push the program forward (optimistically). We suggest using a Phragmén voting system to determine the allocation of the Optimistic Treasury pot, as explained in section 5.3.2.
 
 
 Establishing a funding mechanism open to all ecosystem participants will ensure that both the funding mechanism and any Ambassador program remain as resilient as possible.
@@ -370,44 +340,27 @@ Globally Recognised Voice of Authority, Strategically Aligning the Ambassador Fe
 
 The success metrics used for promotion through the ranks are flexible to align with the versatile and scalable nature of the Ambassador Fellowship and Polkadot's changing needs. To avoid overly rigid criteria, guidelines are provided to measure an individual's readiness for advancement and identify key engagement areas at each rank. As the Polkadot roadmap evolves, these areas may be adjusted accordingly.
 
+
 6.3.1 Overview
 Six key areas of appraisal for promotion exist. As individuals climb the ranks, they are assessed in more areas. 
 
-No.
-Key Area of Appraisal
-Expected At
-Example Action
-1
-Online Engagement
-Ranks I—VI
-Community Forums and Chat Channels, Social Media, Podcasts, Live Spaces
-2
-Offline Engagement
-Ranks II—VI
-Event Attendance, Meetups, Hosting, Speaking
-3
-Governance 
-
-
-Ranks II—VI
-OpenGov voting, Proposal Submission, Advocacy and Onboarding [retail and whales], Delegations
-4
-Community Growth and Sustainability
-Ranks III—VI
-Onboarding Retail Customers, DevRel, Ambassador Fellowship Growth and Retention, Educational Tool and Material Development 
-5
-External Partnerships
-Ranks IV—VI
-Enterprise adoption, Cross-Chain partnerships, Investors, Government lobbying, Institutional user onboarding
-6
-Executive Responsibilities and Mentorship
-Ranks V—VI
-Ambassador Fellowship Development, Polkadot Strategy, Governance Engagement
+| No. | Key Area of Appraisal                | Expected At   | Example Action                                                                                               |
+|-----|--------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------|
+| 1   | Online Engagement                    | Ranks I–VI    | Community Forums and Chat Channels, Social Media, Podcasts, Live Spaces                                      |
+| 2   | Offline Engagement                   | Ranks II–VI   | Event Attendance, Meetups, Hosting, Speaking                                                                 |
+| 3   | Governance                           | Ranks II–VI   | OpenGov voting, Proposal Submission, Advocacy and Onboarding [retail and whales], Delegations                |
+| 4   | Community Growth and Sustainability  | Ranks III–VI  | Onboarding Retail Customers, DevRel, Ambassador Fellowship Growth and Retention, Educational Tool and Material Development |
+| 5   | External Partnerships                | Ranks IV–VI   | Enterprise adoption, Cross-Chain partnerships, Investors, Government lobbying, Institutional user onboarding |
+| 6   | Executive Responsibilities and Mentorship | Ranks V–VI | Ambassador Fellowship Development, Polkadot Strategy, Governance Engagement                                  |
 
 
 Each key appraisal area is measured on a scale of 1—6 per the tiering system.
 
-    [A—Learners] 1—2		      [B—Engagers] 3—4		          [C—Drivers] 5—6
+| Category          | Ranks | Description                                     |
+|-------------------|-------|-------------------------------------------------|
+| [A – Learners]    | 1–2   | Listening, Learning and Demonstrating Understanding |
+| [B – Engagers]    | 3–4   | Active Engagement                               |
+| [C – Drivers]     | 5–6   | Leadership and Innovation                       |
 
 
 6.3.2 Promotion examples
@@ -423,43 +376,20 @@ Offline Engagement — actions meeting expectations at [B—Engager]3.
 Governance — actions are meeting expectations at [B—Engager]3.
 Community growth & sustainability — actions meeting expectations at [A_Learner]1.
 
+
 6.4 Rank-weighted Voting 
 
 Voting will happen through rank-weighted voting. Ambassadors at Rank I, Advocate Ambassadors, will not be able to vote. Ambassadors at Rank I—VI, Associate Ambassador to Global Head Ambassador, will have their votes weighted as follows.
 
-Rank
-Name
-Tier
-Voting Weight 
-0
-Advocate Ambassador
-n/a
-n/a
-I
-Associate Ambassador
-1
-1
-II
-Lead Ambassador
-1
-3
-III
-Senior Ambassador
-2
-9
-IV
-Principal Ambassador
-2
-27
-V
-Global Ambassador
-3
-81
-VI
-Global Head Ambassador
-3
-243
-
+| Rank | Name                     | Tier  | Voting Weight |
+|------|---------------------------|-------|---------------|
+| 0    | Advocate Ambassador       | n/a   | n/a           |
+| I    | Associate Ambassador      | 1*    | 1             |
+| II   | Lead Ambassador           | 1     | 3             |
+| III  | Senior Ambassador         | 2   | 9             |
+| IV   | Principal Ambassador      | 2     | 27            |
+| V    | Global Ambassador         | 3***  | 81            |
+| VI   | Global Head Ambassador    | 3     | 243           |
 
 7. The Evaluation 
 
@@ -474,47 +404,15 @@ Active Participation: plentiful teaching, education, and rational advocacy are c
 Community Growth: the individual has actively promoted and grown the programme by recruiting, onboarding and assisting in Member promotions.
 Governance Engagement: Regular voting is required to facilitate efficient promotions and other voting mechanisms. Increased voting activity should be reflected in rank advancement.
 
-Rank
-Name
-Tier
-Voting Weight 
-Voting Attendance
-0
-Advocate Ambassador
-n/a
-n/a
-n/a
-I
-Associate Ambassador
-1
-1
->30%
-II
-Lead Ambassador
-1
-3
->30%
-III
-Senior Ambassador
-2
-9
->45%
-IV
-Principal Ambassador
-2
-27
->60%
-V
-Global Ambassador
-3
-81
->75%
-VI
-Global Head Ambassador
-3
-243
->90%
-
+| Rank | Name                     | Tier  | Voting Weight | Voting Attendance |
+|------|---------------------------|-------|---------------|--------------------|
+| 0    | Advocate Ambassador       | n/a   | n/a           | n/a               |
+| I    | Associate Ambassador      | 1     | 1             | >30%              |
+| II   | Lead Ambassador           | 1     | 3             | >30%              |
+| III  | Senior Ambassador         | 2     | 9             | >45%              |
+| IV   | Principal Ambassador      | 2     | 27            | >60%              |
+| V    | Global Ambassador         | 3     | 81            | >75%              |
+| VI   | Global Head Ambassador    | 3     | 243           | >90%         
 
 
 7.1.2 Social Interactions
@@ -553,7 +451,7 @@ Recruitment and retention — Actively seeking to grow the programme and create 
 
 Externally focused
 Business Development tracks, such as Enterprise, Government, and Cross-Chain Partnerships
-Investor Relations
+Investor Relations tracks, including managing relationships with existing investors, attracting new capital to the Polkadot ecosystem by engaging targeted investors, and conducting related activities explicitly aimed at increasing capital flow into the ecosystem and driving buy-pressure on the DOT token.
 Education and Awareness. Enhancing understanding of Polkadot’s unique value propositions within the broader blockchain and Web3 communities
 Developer Recruitment and Onboarding
 Decentralisation and Governance Promoting Polkadot’s decentralized governance model and empowering communities to participate actively.
@@ -570,6 +468,7 @@ If an Ambassador wants to propose an annex, this must be submitted through OpenG
 Appendix 
 
 A. Philosophy and Principles of Polkadot
+
 Enlightened Liberalism. Honesty and freedom. But respect, politeness and tolerance.
 Critical Rationalism. Judge only by actions, not suppositions, associations or words. 
 Web 3. Provide individuals with tools to interact usefully with the world themselves, reducing their need to trust the group. 
@@ -589,4 +488,4 @@ Lorena Fabris
 Lucy Coulden
 
 Lead Contributors
-Abdulbasit Sadiq, AirLyft, Alex Promo Team, Bastian Kocher, Chris Hutchinson, David Pethes, Ezio Rojas, Felix, Flez, Dartford, Hope Clary, Jay Chrawnna, James Slusser, Jimmy Tudeski , Joe Petrowski, Leemo, Lightsonemusic, Lily Mendez, Luke Schoen, Mario Altenburger, Max Rebol, Mister Cole, Nikos, Pieky, OpenGuild [SEA Collective], Raul Romanutti, Rishant Kumar, Saxemberg, Sodazone, Tomi Astikainen, Tommi Enenkel, Vikk, William Chen, William Richter
+Abdulbasit Sadiq, AirLyft, Alex Promo Team, Bastian Kocher, Chris Hutchinson, David Pethes, Ezio Rojas, Felix, Flez, Dartford, Hope Clary, Jay Chrawnna, James Slusser, Jimmy Tudeski , Joe Petrowski, Leemo, Lightsonemusic, Lily Mendez, Luke Schoen, Mario Altenburger, Max Rebol, Mister Cole, Nikos, Pieky, OpenGuild [SEA Collective], Raul Romanutti, Rishant Kumar, Saxemberg, Sodazone, Tomi Astikainen, Tommi Enenkel, Vikk, William Chen, William Richter.
