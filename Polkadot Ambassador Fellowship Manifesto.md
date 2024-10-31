@@ -214,7 +214,9 @@ The broad spectrum nature of the Fellowship mandates that those in the programme
 DOT token holders can propose amendments through OpenGov via root referendum or request the demotion or revocation of any Ambassador at any time via the Fellowship admin track. 
 
 5. The Funding
+   
 5.1 Overview
+
 The funding mechanism for the Ambassador Fellowship operates independently from the programme itself—a deliberate design choice that adds resilience and clarity. By decoupling rank from financial compensation, we create a merit-based organisation where ranks have real meaning and substance. Ambassadors earn recognition based on their contributions, and only those who provide ongoing value are compensated using the different funding methods described below. This fosters a culture of high-quality, long-term participation within the ecosystem, where roles are not simply honorary but are tied directly to tangible impact. Holding a title does not guarantee rewards; only results do, but the title (rank) itself serves as an aid to achieve those results.
 The introduction of a new type of funding mechanism—the Optimistic Fund—to the ecosystem provides a structure designed to be flexible and scalable, ensuring the Ambassador Fellowship can grow without being constrained by rigid or outdated funding mechanisms. Compensation is allocated through pro-rata payments, which require votes to continue, ensuring that DOT token holders maintain complete control over how funds are spent. By adjusting how funds are managed—avoiding automatic payments, requiring memos for spending, setting more targeted budgets, and dynamically selecting Ambassadors on-chain we can reduce wasteful spending and diversify our investments into the ecosystem more effectively. This results in a more impactful, transparent use of resources.
 This approach also brings security and limpidity to the program. DOT token holders have a direct say in how Ambassadors are funded, with decisions based on merit rather than fixed entitlements. Controlled budgets and clear reporting requirements ensure that every expenditure is justified and aligned with the community's evolving needs. This dynamic, on-chain selection adds another layer of security, ensuring that only the most qualified and effective contributors are rewarded and underperforming/bad actors can be quickly cut off from future funding.
@@ -483,9 +485,10 @@ Gavin Wood
 Shawn Tabrizi
 
 Lead Authors
-DonDiego Sanchez
-Lorena Fabris
 Lucy Coulden
+Andréa Vistoli 
+Lorena Fabris
+
 
 Lead Contributors
 Abdulbasit Sadiq, AirLyft, Alex Promo Team, Bastian Kocher, Chris Hutchinson, David Pethes, Ezio Rojas, Felix, Flez, Dartford, Hope Clary, Jay Chrawnna, James Slusser, Jimmy Tudeski , Joe Petrowski, Leemo, Lightsonemusic, Lily Mendez, Luke Schoen, Mario Altenburger, Max Rebol, Mister Cole, Nikos, Pieky, OpenGuild [SEA Collective], Raul Romanutti, Rishant Kumar, Saxemberg, Sodazone, Tomi Astikainen, Tommi Enenkel, Vikk, William Chen, William Richter.
