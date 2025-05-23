@@ -144,10 +144,10 @@ The operational guidelines for the Ambassador Fellowship’s membership are outl
 | 0    | Advocate Ambassador       | n/a   | n/a           |
 | I    | Associate Ambassador      | 1*    | 1             |
 | II   | Lead Ambassador           | 1     | 3             |
-| III  | Senior Ambassador         | 2**   | 9             |
-| IV   | Principal Ambassador      | 2     | 27            |
-| V    | Global Ambassador         | 3***  | 81            |
-| VI   | Global Head Ambassador    | 3     | 243           |
+| III  | Senior Ambassador         | 2**   | 6             |
+| IV   | Principal Ambassador      | 2     | 10            |
+| V    | Global Ambassador         | 3***  | 15            |
+| VI   | Global Head Ambassador    | 3     | 21            |
 
 _*Tier 1—Listeners: Listening, Learning and Demonstrating Understanding_
 _**Tier 2—Engagers: Active engagement_
@@ -386,10 +386,10 @@ Voting will happen through rank-weighted voting. Ambassadors at Rank I, Advocate
 | 0    | Advocate Ambassador       | n/a   | n/a           |
 | I    | Associate Ambassador      | 1*    | 1             |
 | II   | Lead Ambassador           | 1     | 3             |
-| III  | Senior Ambassador         | 2   | 9             |
-| IV   | Principal Ambassador      | 2     | 27            |
-| V    | Global Ambassador         | 3***  | 81            |
-| VI   | Global Head Ambassador    | 3     | 243           |
+| III  | Senior Ambassador         | 2     | 6             |
+| IV   | Principal Ambassador      | 2     | 10            |
+| V    | Global Ambassador         | 3***  | 15            |
+| VI   | Global Head Ambassador    | 3     | 21            |
 
 ### 7. The Evaluation 
 
@@ -409,10 +409,10 @@ An individual can make a broad and constantly evolving range of contributions to
 | 0    | Advocate Ambassador       | n/a   | n/a           | n/a               |
 | I    | Associate Ambassador      | 1     | 1             | >30%              |
 | II   | Lead Ambassador           | 1     | 3             | >30%              |
-| III  | Senior Ambassador         | 2     | 9             | >45%              |
-| IV   | Principal Ambassador      | 2     | 27            | >60%              |
-| V    | Global Ambassador         | 3     | 81            | >75%              |
-| VI   | Global Head Ambassador    | 3     | 243           | >90%         
+| III  | Senior Ambassador         | 2     | 6             | >45%              |
+| IV   | Principal Ambassador      | 2     | 10            | >60%              |
+| V    | Global Ambassador         | 3     | 15            | >75%              |
+| VI   | Global Head Ambassador    | 3     | 21            | >90%         
 
 
 ##### 7.1.2 Social Interactions
@@ -484,9 +484,9 @@ This manifesto is the product of the diverse, passionate, vocal community that i
 - Shawn Tabrizi
 
 **Lead Authors**
+- Lucy Coulden
 - DonDiego Sanchez
 - Lorena Fabris
-- Lucy Coulden
 
 **Lead Contributors**
 Abdulbasit Sadiq, AirLyft, Alex Promo Team, Bastian Kocher, Chris Hutchinson, David Pethes, Ezio Rojas, Felix, Flez, Dartford, Hope Clary, Jay Chrawnna, James Slusser, Jimmy Tudeski , Joe Petrowski, Leemo, Lightsonemusic, Lily Mendez, Luke Schoen, Mario Altenburger, Max Rebol, Mister Cole, Nikos, Pieky, OpenGuild [SEA Collective], Raul Romanutti, Rishant Kumar, Saxemberg, Sodazone, Tomi Astikainen, Tommi Enenkel, Vikk, William Chen, William Richter.
