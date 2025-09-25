@@ -1,5 +1,5 @@
 # Polkadot Ambassador Fellowship Manifesto 
-#### DRAFT 5.0
+#### DRAFT 6.0
 
 #### The Polkadot Community Voices
 
